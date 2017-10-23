@@ -1,0 +1,2 @@
+TEMPLATE=subdirs
+SUBDIRS=app_calc lib_calc
